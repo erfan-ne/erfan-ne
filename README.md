@@ -18,6 +18,7 @@
   <a href="#" ><img src="https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge" /></a>
   <a href="#" ><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /></a>
   <a href="#" ><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
+  <a href="#" ><img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" /></a>
 
 ---
 
